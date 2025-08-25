@@ -1,7 +1,7 @@
-# 🧮 Task 1 – Basic Calculator App
+# 🧮 Basic Calculator App
 
-This repository contains my submission for **Task 1** of the **Oasis Infobyte Web Development & Design Internship (Level 2)**. The project is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and is designed with a clean, functional layout.
-
+A simple alculator built using HTML, CSS, and JavaScript.  
+This project performs basic arithmetic operations and features a clean, intuitive UI.
 ---
 
 ## ✨ Features
@@ -32,18 +32,6 @@ OIBSIP_webdev_task1_calculator/
 
 ---
 
-## 🔗 GitHub Repository
-
-[https://github.com/PritySingha/OIBSIP_webdev_task1_calculator](https://github.com/PritySingha/OIBSIP_webdev_task1_calculator)
-
----
-
-## 📢 LinkedIn Post
-
-I’ve shared my experience and demo on LinkedIn: [LinkedIn Post Link]
-
----
-
 ## 📌 Outcome
 
 This task helped me strengthen my understanding of DOM manipulation, event handling, and basic UI design using vanilla JavaScript. It also taught me how to organize a project for professional presentation and submission.
@@ -51,3 +39,4 @@ This task helped me strengthen my understanding of DOM manipulation, event handl
 ---
 
 Made with 💻 and 💖 by **Prity Singha**
+
